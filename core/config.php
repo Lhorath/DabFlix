@@ -22,7 +22,7 @@ ini_set('display_errors', 1);
 // -- Website Details Section --
 define('WEBSITE_TITLE', 'Dacks-Site');
 define('WEBSITE_DESCRIPTION', 'Your Personal Media Library');
-define('BASE_URL', 'http://dab.nerdygamertools.com');
+define('BASE_URL', 'http://dab.nerdygamertools.com/DabFlix/');
 // -- End of the Website Details Section --
 
 
